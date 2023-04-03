@@ -29,5 +29,5 @@ npm install socket.io
 Run
 
 ```sh
-node index.js
+node chat.js
 ```
