@@ -1,14 +1,14 @@
-# realtime-chat-nodejs
+# Realtime chat nodejs
 realtime chat with socket io and node js and has a matching room feature with users who have the same topic
 
 ## Features
-- real time chat
-- find a room that has the same topic
+- Real-time chat
+- Find a room that has the same topic
 
 ## Tech
-- socket io
-- node js
-- express js
+- Socket io
+- Node js
+- Express js
 
 ## Installation
 
